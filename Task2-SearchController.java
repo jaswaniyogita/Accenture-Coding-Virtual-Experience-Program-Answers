@@ -1,14 +1,3 @@
-/*
- * Java classes are grouped in "packages". This allows them to be referenced and used in other
- * classes using import statements.  Any class in this project is prefixed in the com.mockcompany.webapp
- * package.
- *
- *   https://www.w3schools.com/java/java_packages.asp
- *
- * For general help with Java, see the tutorialspoint tutorial:
- *
- *   https://www.tutorialspoint.com/java/index.htm
- */
 package com.mockcompany.webapp.controller;
 
 /*
